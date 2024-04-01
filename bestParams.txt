@@ -1,0 +1,7 @@
+model = LGBMRegressor()
+{'learning_rate': 0.05,
+ 'max_depth': 3,
+ 'min_child_samples': 20,
+ 'n_estimators': 200,
+ 'num_leaves': 31,
+ 'subsample': 0.8}
